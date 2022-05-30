@@ -1,0 +1,13 @@
+C:\Users\evanw\source\repos\Excersices\LabLinq2\bin\Debug\netcoreapp3.1\LabLinq2.exe
+C:\Users\evanw\source\repos\Excersices\LabLinq2\bin\Debug\netcoreapp3.1\LabLinq2.deps.json
+C:\Users\evanw\source\repos\Excersices\LabLinq2\bin\Debug\netcoreapp3.1\LabLinq2.runtimeconfig.json
+C:\Users\evanw\source\repos\Excersices\LabLinq2\bin\Debug\netcoreapp3.1\LabLinq2.runtimeconfig.dev.json
+C:\Users\evanw\source\repos\Excersices\LabLinq2\bin\Debug\netcoreapp3.1\LabLinq2.dll
+C:\Users\evanw\source\repos\Excersices\LabLinq2\bin\Debug\netcoreapp3.1\LabLinq2.pdb
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.AssemblyInfoInputs.cache
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.AssemblyInfo.cs
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.dll
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.pdb
+C:\Users\evanw\source\repos\Excersices\LabLinq2\obj\Debug\netcoreapp3.1\LabLinq2.genruntimeconfig.cache
