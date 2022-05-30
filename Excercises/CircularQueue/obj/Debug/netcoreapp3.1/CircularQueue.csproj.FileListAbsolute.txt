@@ -1,0 +1,14 @@
+C:\Users\evanw\source\repos\Excersices\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.exe
+C:\Users\evanw\source\repos\Excersices\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.deps.json
+C:\Users\evanw\source\repos\Excersices\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.runtimeconfig.json
+C:\Users\evanw\source\repos\Excersices\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.runtimeconfig.dev.json
+C:\Users\evanw\source\repos\Excersices\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.dll
+C:\Users\evanw\source\repos\Excersices\CircularQueue\bin\Debug\netcoreapp3.1\CircularQueue.pdb
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.csproj.AssemblyReference.cache
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.AssemblyInfo.cs
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.dll
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.pdb
+C:\Users\evanw\source\repos\Excersices\CircularQueue\obj\Debug\netcoreapp3.1\CircularQueue.genruntimeconfig.cache

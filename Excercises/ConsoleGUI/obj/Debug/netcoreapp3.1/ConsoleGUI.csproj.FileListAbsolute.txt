@@ -1,0 +1,14 @@
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\bin\Debug\netcoreapp3.1\ConsoleGUI.exe
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\bin\Debug\netcoreapp3.1\ConsoleGUI.deps.json
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\bin\Debug\netcoreapp3.1\ConsoleGUI.runtimeconfig.json
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\bin\Debug\netcoreapp3.1\ConsoleGUI.runtimeconfig.dev.json
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\bin\Debug\netcoreapp3.1\ConsoleGUI.dll
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\bin\Debug\netcoreapp3.1\ConsoleGUI.pdb
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.csproj.AssemblyReference.cache
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.AssemblyInfoInputs.cache
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.AssemblyInfo.cs
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.dll
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.pdb
+C:\Users\evanw\source\repos\Excersices\ConsoleGUI\obj\Debug\netcoreapp3.1\ConsoleGUI.genruntimeconfig.cache
