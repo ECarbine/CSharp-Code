@@ -1,0 +1,13 @@
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\bin\Debug\netcoreapp3.1\LabGenericCollection.exe
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\bin\Debug\netcoreapp3.1\LabGenericCollection.deps.json
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\bin\Debug\netcoreapp3.1\LabGenericCollection.runtimeconfig.json
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\bin\Debug\netcoreapp3.1\LabGenericCollection.runtimeconfig.dev.json
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\bin\Debug\netcoreapp3.1\LabGenericCollection.dll
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\bin\Debug\netcoreapp3.1\LabGenericCollection.pdb
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.AssemblyInfoInputs.cache
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.AssemblyInfo.cs
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.dll
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.pdb
+C:\Users\evanw\source\repos\Excersices\LabGenericCollection\obj\Debug\netcoreapp3.1\LabGenericCollection.genruntimeconfig.cache

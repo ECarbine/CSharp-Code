@@ -1,0 +1,14 @@
+C:\Users\evanw\source\repos\Excersices\LabDelegate\bin\Debug\netcoreapp3.1\LabDelegate.exe
+C:\Users\evanw\source\repos\Excersices\LabDelegate\bin\Debug\netcoreapp3.1\LabDelegate.deps.json
+C:\Users\evanw\source\repos\Excersices\LabDelegate\bin\Debug\netcoreapp3.1\LabDelegate.runtimeconfig.json
+C:\Users\evanw\source\repos\Excersices\LabDelegate\bin\Debug\netcoreapp3.1\LabDelegate.runtimeconfig.dev.json
+C:\Users\evanw\source\repos\Excersices\LabDelegate\bin\Debug\netcoreapp3.1\LabDelegate.dll
+C:\Users\evanw\source\repos\Excersices\LabDelegate\bin\Debug\netcoreapp3.1\LabDelegate.pdb
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.AssemblyInfoInputs.cache
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.AssemblyInfo.cs
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.csproj.CoreCompileInputs.cache
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.dll
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.pdb
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.genruntimeconfig.cache
+C:\Users\evanw\source\repos\Excersices\LabDelegate\obj\Debug\netcoreapp3.1\LabDelegate.csproj.AssemblyReference.cache
